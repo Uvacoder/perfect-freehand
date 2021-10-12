@@ -1,5 +1,5 @@
 # ![Screenshot](assets/perfect-freehand-logo.svg 'Perfect Freehand')
-
+-
 Draw perfect pressure-sensitive freehand lines.
 
 🔗 Curious? Try out a [demo](https://perfect-freehand-example.vercel.app/).
